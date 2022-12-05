@@ -1,0 +1,251 @@
+State_Code,State_Abv,Offense_Type,Total_Offenses
+1,AL,Animal Cruelty,351
+1,AL,Drugs/Narcotic Offenses,25687
+1,AL,Pornography,286
+1,AL,Prostitution Offenses,39
+1,AL,Weapon Law Violations,3699
+2,AK,Animal Cruelty,20
+2,AK,Drugs/Narcotic Offenses,1229
+2,AK,Pornography,36
+2,AK,Prostitution Offenses,18
+2,AK,Weapon Law Violations,427
+4,AZ,Animal Cruelty,396
+4,AZ,Drugs/Narcotic Offenses,29650
+4,AZ,Pornography,749
+4,AZ,Prostitution Offenses,164
+4,AZ,Weapon Law Violations,3254
+5,AR,Animal Cruelty,30
+5,AR,Drugs/Narcotic Offenses,34344
+5,AR,Pornography,490
+5,AR,Prostitution Offenses,101
+5,AR,Weapon Law Violations,3632
+6,CA,Animal Cruelty,40
+6,CA,Drugs/Narcotic Offenses,21994
+6,CA,Pornography,54
+6,CA,Prostitution Offenses,380
+6,CA,Weapon Law Violations,3474
+8,CO,Animal Cruelty,860
+8,CO,Drugs/Narcotic Offenses,24110
+8,CO,Pornography,927
+8,CO,Prostitution Offenses,296
+8,CO,Weapon Law Violations,8180
+9,CT,Animal Cruelty,149
+9,CT,Drugs/Narcotic Offenses,7220
+9,CT,Pornography,239
+9,CT,Prostitution Offenses,37
+9,CT,Weapon Law Violations,3044
+10,DE,Animal Cruelty,1280
+10,DE,Drugs/Narcotic Offenses,8902
+10,DE,Pornography,97
+10,DE,Prostitution Offenses,27
+10,DE,Weapon Law Violations,2227
+12,FL,Animal Cruelty,2
+12,FL,Drugs/Narcotic Offenses,162
+12,FL,Pornography,2
+12,FL,Prostitution Offenses,1
+12,FL,Weapon Law Violations,25
+13,GA,Animal Cruelty,1180
+13,GA,Drugs/Narcotic Offenses,44766
+13,GA,Pornography,1208
+13,GA,Prostitution Offenses,287
+13,GA,Weapon Law Violations,7085
+15,HI,Animal Cruelty,49
+15,HI,Drugs/Narcotic Offenses,2137
+15,HI,Pornography,81
+15,HI,Prostitution Offenses,31
+15,HI,Weapon Law Violations,392
+16,ID,Animal Cruelty,58
+16,ID,Drugs/Narcotic Offenses,25531
+16,ID,Pornography,262
+16,ID,Prostitution Offenses,36
+16,ID,Weapon Law Violations,1149
+17,IL,Animal Cruelty,89
+17,IL,Drugs/Narcotic Offenses,11375
+17,IL,Pornography,540
+17,IL,Prostitution Offenses,95
+17,IL,Weapon Law Violations,5755
+18,IN,Animal Cruelty,627
+18,IN,Drugs/Narcotic Offenses,41868
+18,IN,Pornography,747
+18,IN,Prostitution Offenses,116
+18,IN,Weapon Law Violations,6470
+19,IA,Animal Cruelty,627
+19,IA,Drugs/Narcotic Offenses,41868
+19,IA,Pornography,747
+19,IA,Prostitution Offenses,116
+19,IA,Weapon Law Violations,6470
+20,KS,Animal Cruelty,0
+20,KS,Drugs/Narcotic Offenses,27863
+20,KS,Pornography,381
+20,KS,Prostitution Offenses,114
+20,KS,Weapon Law Violations,6470
+21,KY,Animal Cruelty,215
+21,KY,Drugs/Narcotic Offenses,43248
+21,KY,Pornography,582
+21,KY,Prostitution Offenses,65
+21,KY,Weapon Law Violations,3415
+22,LA,Animal Cruelty,302
+22,LA,Drugs/Narcotic Offenses,32035
+22,LA,Pornography,808
+22,LA,Prostitution Offenses,198
+22,LA,Weapon Law Violations,6629
+23,ME,Animal Cruelty,46
+23,ME,Drugs/Narcotic Offenses,4214
+23,ME,Pornography,137
+23,ME,Prostitution Offenses,16
+23,ME,Weapon Law Violations,382
+24,MD,Animal Cruelty,284
+24,MD,Drugs/Narcotic Offenses,7697
+24,MD,Pornography,118
+24,MD,Prostitution Offenses,59
+24,MD,Weapon Law Violations,1471
+25,MA,Animal Cruelty,206
+25,MA,Drugs/Narcotic Offenses,10120
+25,MA,Pornography,900
+25,MA,Prostitution Offenses,200
+25,MA,Weapon Law Violations,3910
+26,MI,Animal Cruelty,675
+26,MI,Drugs/Narcotic Offenses,27302
+26,MI,Pornography,1091
+26,MI,Prostitution Offenses,715
+26,MI,Weapon Law Violations,17697
+27,MN,Animal Cruelty,379
+27,MN,Drugs/Narcotic Offenses,29660
+27,MN,Pornography,966
+27,MN,Prostitution Offenses,103
+27,MN,Weapon Law Violations,7001
+28,MS,Animal Cruelty,185
+28,MS,Drugs/Narcotic Offenses,17672
+28,MS,Pornography,204
+28,MS,Prostitution Offenses,33
+28,MS,Weapon Law Violations,2119
+29,MO,Animal Cruelty,387
+29,MO,Drugs/Narcotic Offenses,55939
+29,MO,Pornography,672
+29,MO,Prostitution Offenses,175
+29,MO,Weapon Law Violations,9794
+30,MT,Animal Cruelty,153
+30,MT,Drugs/Narcotic Offenses,5607
+30,MT,Pornography,24
+30,MT,Prostitution Offenses,23
+30,MT,Weapon Law Violations,293
+31,NE,Animal Cruelty,82
+31,NE,Drugs/Narcotic Offenses,14908
+31,NE,Pornography,264
+31,NE,Prostitution Offenses,58
+31,NE,Weapon Law Violations,1285
+32,NV,Animal Cruelty,280
+32,NV,Drugs/Narcotic Offenses,21492
+32,NV,Pornography,588
+32,NV,Prostitution Offenses,1915
+32,NV,Weapon Law Violations,5958
+33,NH,Animal Cruelty,167
+33,NH,Drugs/Narcotic Offenses,5945
+33,NH,Pornography,697
+33,NH,Prostitution Offenses,27
+33,NH,Weapon Law Violations,451
+34,NJ,Animal Cruelty,28
+34,NJ,Drugs/Narcotic Offenses,3497
+34,NJ,Pornography,24
+34,NJ,Prostitution Offenses,82
+34,NJ,Weapon Law Violations,1324
+35,NM,Animal Cruelty,76
+35,NM,Drugs/Narcotic Offenses,5638
+35,NM,Pornography,150
+35,NM,Prostitution Offenses,22
+35,NM,Weapon Law Violations,2516
+36,NY,Animal Cruelty,1
+36,NY,Drugs/Narcotic Offenses,4826
+36,NY,Pornography,137
+36,NY,Prostitution Offenses,15
+36,NY,Weapon Law Violations,1736
+37,NC,Animal Cruelty,574
+37,NC,Drugs/Narcotic Offenses,90542
+37,NC,Pornography,1820
+37,NC,Prostitution Offenses,255
+37,NC,Weapon Law Violations,18670
+38,ND,Animal Cruelty,119
+38,ND,Drugs/Narcotic Offenses,12803
+38,ND,Pornography,246
+38,ND,Prostitution Offenses,40
+38,ND,Weapon Law Violations,679
+39,OH,Animal Cruelty,322
+39,OH,Drugs/Narcotic Offenses,57367
+39,OH,Pornography,1288
+39,OH,Prostitution Offenses,552
+39,OH,Weapon Law Violations,14807
+40,OK,Animal Cruelty,194
+40,OK,Drugs/Narcotic Offenses,26527
+40,OK,Pornography,938
+40,OK,Prostitution Offenses,228
+40,OK,Weapon Law Violations,5372
+41,OR,Animal Cruelty,462
+41,OR,Drugs/Narcotic Offenses,8316
+41,OR,Pornography,487
+41,OR,Prostitution Offenses,304
+41,OR,Weapon Law Violations,5819
+42,PA,Animal Cruelty,60
+42,PA,Drugs/Narcotic Offenses,5890
+42,PA,Pornography,107
+42,PA,Prostitution Offenses,69
+42,PA,Weapon Law Violations,4180
+44,RI,Animal Cruelty,44
+44,RI,Drugs/Narcotic Offenses,2556
+44,RI,Pornography,352
+44,RI,Prostitution Offenses,8
+44,RI,Weapon Law Violations,937
+45,SC,Animal Cruelty,379
+45,SC,Drugs/Narcotic Offenses,48001
+45,SC,Pornography,959
+45,SC,Prostitution Offenses,99
+45,SC,Weapon Law Violations,9285
+46,SD,Animal Cruelty,30
+46,SD,Drugs/Narcotic Offenses,10688
+46,SD,Pornography,242
+46,SD,Prostitution Offenses,33
+46,SD,Weapon Law Violations,859
+47,TN,Animal Cruelty,571
+47,TN,Drugs/Narcotic Offenses,88169
+47,TN,Pornography,950
+47,TN,Prostitution Offenses,407
+47,TN,Weapon Law Violations,15627
+48,TX,Animal Cruelty,2952
+48,TX,Drugs/Narcotic Offenses,175637
+48,TX,Pornography,4903
+48,TX,Prostitution Offenses,2860
+48,TX,Weapon Law Violations,33509
+49,UT,Animal Cruelty,116
+49,UT,Drugs/Narcotic Offenses,39435
+49,UT,Pornography,535
+49,UT,Prostitution Offenses,134
+49,UT,Weapon Law Violations,3758
+50,VT,Animal Cruelty,28
+50,VT,Drugs/Narcotic Offenses,1169
+50,VT,Pornography,81
+50,VT,Prostitution Offenses,10
+50,VT,Weapon Law Violations,97
+51,VA,Animal Cruelty,1185
+51,VA,Drugs/Narcotic Offenses,35386
+51,VA,Pornography,2084
+51,VA,Prostitution Offenses,373
+51,VA,Weapon Law Violations,14185
+53,WA,Animal Cruelty,299
+53,WA,Drugs/Narcotic Offenses,9325
+53,WA,Pornography,619
+53,WA,Prostitution Offenses,314
+53,WA,Weapon Law Violations,5422
+54,WV,Animal Cruelty,25
+54,WV,Drugs/Narcotic Offenses,11512
+54,WV,Pornography,498
+54,WV,Prostitution Offenses,49
+54,WV,Weapon Law Violations,1434
+55,WI,Animal Cruelty,309
+55,WI,Drugs/Narcotic Offenses,45779
+55,WI,Pornography,1752
+55,WI,Prostitution Offenses,324
+55,WI,Weapon Law Violations,12337
+56,WY,Animal Cruelty,75
+56,WY,Drugs/Narcotic Offenses,2750
+56,WY,Pornography,95
+56,WY,Prostitution Offenses,17
+56,WY,Weapon Law Violations,157

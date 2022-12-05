@@ -1,0 +1,601 @@
+State_Code,State_Abv,Offense_Type,Total_Offenses
+1,AL,Arson,456
+1,AL,Bribery,11
+1,AL,Burglary/ Breaking & Entering,12491
+1,AL,Counterfeiting/ Forgery,2483
+1,AL,Destruction/ Damage/ Vandalism ,27112
+1,AL,Embezzlement,124
+1,AL,Extortion/ Blackmail,122
+1,AL,Fraud Offenses,10712
+1,AL,Larceny/ Theft Offenses,55804
+1,AL,Motor Vehicle Theft,9902
+1,AL,Robbery,1481
+1,AL,Stolen Property Offenses,1576
+2,AK,Arson,59
+2,AK,Bribery,2
+2,AK,Burglary/ Breaking & Entering,786
+2,AK,Counterfeiting/ Forgery,122
+2,AK,Destruction/ Damage/ Vandalism ,2199
+2,AK,Embezzlement,22
+2,AK,Extortion/ Blackmail,34
+2,AK,Fraud Offenses,602
+2,AK,Larceny/ Theft Offenses,2761
+2,AK,Motor Vehicle Theft,611
+2,AK,Robbery,72
+2,AK,Stolen Property Offenses,31
+4,AZ,Arson,413
+4,AZ,Bribery,11
+4,AZ,Burglary/ Breaking & Entering,8763
+4,AZ,Counterfeiting/ Forgery,1231
+4,AZ,Destruction/ Damage/ Vandalism ,22229
+4,AZ,Embezzlement,261
+4,AZ,Extortion/ Blackmail,256
+4,AZ,Fraud Offenses,14733
+4,AZ,Larceny/ Theft Offenses,48802
+4,AZ,Motor Vehicle Theft,5818
+4,AZ,Robbery,1129
+4,AZ,Stolen Property Offenses,1002
+5,AR,Arson,557
+5,AR,Bribery,2
+5,AR,Burglary/ Breaking & Entering,14101
+5,AR,Counterfeiting/ Forgery,3056
+5,AR,Destruction/ Damage/ Vandalism ,27186
+5,AR,Embezzlement,88
+5,AR,Extortion/ Blackmail,59
+5,AR,Fraud Offenses,12169
+5,AR,Larceny/ Theft Offenses,54687
+5,AR,Motor Vehicle Theft,8110
+5,AR,Robbery,1272
+5,AR,Stolen Property Offenses,2498
+6,CA,Arson,407
+6,CA,Bribery,2
+6,CA,Burglary/ Breaking & Entering,7103
+6,CA,Counterfeiting/ Forgery,960
+6,CA,Destruction/ Damage/ Vandalism ,14837
+6,CA,Embezzlement,225
+6,CA,Extortion/ Blackmail,148
+6,CA,Fraud Offenses,7873
+6,CA,Larceny/ Theft Offenses,34122
+6,CA,Motor Vehicle Theft,11272
+6,CA,Robbery,2300
+6,CA,Stolen Property Offenses,2064
+8,CO,Arson,1341
+8,CO,Bribery,113
+8,CO,Burglary/ Breaking & Entering,22988
+8,CO,Counterfeiting/ Forgery,3037
+8,CO,Destruction/ Damage/ Vandalism ,55838
+8,CO,Embezzlement,329
+8,CO,Extortion/ Blackmail,887
+8,CO,Fraud Offenses,41910
+8,CO,Larceny/ Theft Offenses,120385
+8,CO,Motor Vehicle Theft,40851
+8,CO,Robbery,4310
+8,CO,Stolen Property Offenses,3746
+9,CT,Arson,163
+9,CT,Bribery,5
+9,CT,Burglary/ Breaking & Entering,5100
+9,CT,Counterfeiting/ Forgery,1120
+9,CT,Destruction/ Damage/ Vandalism ,16425
+9,CT,Embezzlement,191
+9,CT,Extortion/ Blackmail,183
+9,CT,Fraud Offenses,8528
+9,CT,Larceny/ Theft Offenses,41977
+9,CT,Motor Vehicle Theft,7407
+9,CT,Robbery,1930
+9,CT,Stolen Property Offenses,1341
+10,DE,Arson,155
+10,DE,Bribery,5
+10,DE,Burglary/ Breaking & Entering,2371
+10,DE,Counterfeiting/ Forgery,389
+10,DE,Destruction/ Damage/ Vandalism ,9217
+10,DE,Embezzlement,116
+10,DE,Extortion/ Blackmail,64
+10,DE,Fraud Offenses,9756
+10,DE,Larceny/ Theft Offenses,15395
+10,DE,Motor Vehicle Theft,1609
+10,DE,Robbery,570
+10,DE,Stolen Property Offenses,538
+12,FL,Arson,0
+12,FL,Bribery,0
+12,FL,Burglary/ Breaking & Entering,22
+12,FL,Counterfeiting/ Forgery,6
+12,FL,Destruction/ Damage/ Vandalism ,99
+12,FL,Embezzlement,6
+12,FL,Extortion/ Blackmail,0
+12,FL,Fraud Offenses,78
+12,FL,Larceny/ Theft Offenses,662
+12,FL,Motor Vehicle Theft,50
+12,FL,Robbery,24
+12,FL,Stolen Property Offenses,22
+13,GA,Arson,688
+13,GA,Bribery,26
+13,GA,Burglary/ Breaking & Entering,18452
+13,GA,Counterfeiting/ Forgery,5436
+13,GA,Destruction/ Damage/ Vandalism ,43926
+13,GA,Embezzlement,451
+13,GA,Extortion/ Blackmail,331
+13,GA,Fraud Offenses,33582
+13,GA,Larceny/ Theft Offenses,114819
+13,GA,Motor Vehicle Theft,17985
+13,GA,Robbery,4053
+13,GA,Stolen Property Offenses,3424
+15,HI,Arson,325
+15,HI,Bribery,2
+15,HI,Burglary/ Breaking & Entering,3463
+15,HI,Counterfeiting/ Forgery,395
+15,HI,Destruction/ Damage/ Vandalism ,1053
+15,HI,Embezzlement,29
+15,HI,Extortion/ Blackmail,113
+15,HI,Fraud Offenses,4170
+15,HI,Larceny/ Theft Offenses,20064
+15,HI,Motor Vehicle Theft,4286
+15,HI,Robbery,734
+15,HI,Stolen Property Offenses,744
+16,ID,Arson,140
+16,ID,Bribery,3
+16,ID,Burglary/ Breaking & Entering,2811
+16,ID,Counterfeiting/ Forgery,627
+16,ID,Destruction/ Damage/ Vandalism ,6959
+16,ID,Embezzlement,118
+16,ID,Extortion/ Blackmail,90
+16,ID,Fraud Offenses,5252
+16,ID,Larceny/ Theft Offenses,13226
+16,ID,Motor Vehicle Theft,1618
+16,ID,Robbery,156
+16,ID,Stolen Property Offenses,407
+17,IL,Arson,541
+17,IL,Bribery,6
+17,IL,Burglary/ Breaking & Entering,11465
+17,IL,Counterfeiting/ Forgery,1849
+17,IL,Destruction/ Damage/ Vandalism ,42370
+17,IL,Embezzlement,67
+17,IL,Extortion/ Blackmail,171
+17,IL,Fraud Offenses,24685
+17,IL,Larceny/ Theft Offenses,57784
+17,IL,Motor Vehicle Theft,11430
+17,IL,Robbery,5955
+17,IL,Stolen Property Offenses,458
+18,IN,Arson,720
+18,IN,Bribery,19
+18,IN,Burglary/ Breaking & Entering,11661
+18,IN,Counterfeiting/ Forgery,1800
+18,IN,Destruction/ Damage/ Vandalism ,10585
+18,IN,Embezzlement,487
+18,IN,Extortion/ Blackmail,141
+18,IN,Fraud Offenses,16032
+18,IN,Larceny/ Theft Offenses,65136
+18,IN,Motor Vehicle Theft,12585
+18,IN,Robbery,2905
+18,IN,Stolen Property Offenses,1398
+19,IA,Arson,327
+19,IA,Bribery,72
+19,IA,Burglary/ Breaking & Entering,7659
+19,IA,Counterfeiting/ Forgery,2565
+19,IA,Destruction/ Damage/ Vandalism ,15845
+19,IA,Embezzlement,189
+19,IA,Extortion/ Blackmail,87
+19,IA,Fraud Offenses,7832
+19,IA,Larceny/ Theft Offenses,32882
+19,IA,Motor Vehicle Theft,5799
+19,IA,Robbery,681
+19,IA,Stolen Property Offenses,575
+20,KS,Arson,433
+20,KS,Bribery,6
+20,KS,Burglary/ Breaking & Entering,6364
+20,KS,Counterfeiting/ Forgery,2457
+20,KS,Destruction/ Damage/ Vandalism ,22556
+20,KS,Embezzlement,418
+20,KS,Extortion/ Blackmail,347
+20,KS,Fraud Offenses,10446
+20,KS,Larceny/ Theft Offenses,34286
+20,KS,Motor Vehicle Theft,5681
+20,KS,Robbery,645
+20,KS,Stolen Property Offenses,1395
+21,KY,Arson,418
+21,KY,Bribery,42
+21,KY,Burglary/ Breaking & Entering,12659
+21,KY,Counterfeiting/ Forgery,1962
+21,KY,Destruction/ Damage/ Vandalism ,20219
+21,KY,Embezzlement,1103
+21,KY,Extortion/ Blackmail,111
+21,KY,Fraud Offenses,9652
+21,KY,Larceny/ Theft Offenses,51527
+21,KY,Motor Vehicle Theft,11100
+21,KY,Robbery,2238
+21,KY,Stolen Property Offenses,3923
+22,LA,Arson,255
+22,LA,Bribery,13
+22,LA,Burglary/ Breaking & Entering,15497
+22,LA,Counterfeiting/ Forgery,1922
+22,LA,Destruction/ Damage/ Vandalism ,21654
+22,LA,Embezzlement,740
+22,LA,Extortion/ Blackmail,218
+22,LA,Fraud Offenses,6063
+22,LA,Larceny/ Theft Offenses,54699
+22,LA,Motor Vehicle Theft,7497
+22,LA,Robbery,1348
+22,LA,Stolen Property Offenses,2356
+23,ME,Arson,165
+23,ME,Bribery,2
+23,ME,Burglary/ Breaking & Entering,1713
+23,ME,Counterfeiting/ Forgery,460
+23,ME,Destruction/ Damage/ Vandalism ,6209
+23,ME,Embezzlement,37
+23,ME,Extortion/ Blackmail,36
+23,ME,Fraud Offenses,3102
+23,ME,Larceny/ Theft Offenses,13207
+23,ME,Motor Vehicle Theft,891
+23,ME,Robbery,161
+23,ME,Stolen Property Offenses,111
+24,MD,Arson,192
+24,MD,Bribery,3
+24,MD,Burglary/ Breaking & Entering,3691
+24,MD,Counterfeiting/ Forgery,1092
+24,MD,Destruction/ Damage/ Vandalism ,13445
+24,MD,Embezzlement,272
+24,MD,Extortion/ Blackmail,157
+24,MD,Fraud Offenses,10740
+24,MD,Larceny/ Theft Offenses,28682
+24,MD,Motor Vehicle Theft,4026
+24,MD,Robbery,1701
+24,MD,Stolen Property Offenses,599
+25,MA,Arson,311
+25,MA,Bribery,15
+25,MA,Burglary/ Breaking & Entering,9582
+25,MA,Counterfeiting/ Forgery,2322
+25,MA,Destruction/ Damage/ Vandalism ,29644
+25,MA,Embezzlement,346
+25,MA,Extortion/ Blackmail,608
+25,MA,Fraud Offenses,24521
+25,MA,Larceny/ Theft Offenses,55528
+25,MA,Motor Vehicle Theft,6819
+25,MA,Robbery,2618
+25,MA,Stolen Property Offenses,1695
+26,MI,Arson,1472
+26,MI,Bribery,17
+26,MI,Burglary/ Breaking & Entering,19990
+26,MI,Counterfeiting/ Forgery,2457
+26,MI,Destruction/ Damage/ Vandalism ,47250
+26,MI,Embezzlement,1608
+26,MI,Extortion/ Blackmail,604
+26,MI,Fraud Offenses,34204
+26,MI,Larceny/ Theft Offenses,94082
+26,MI,Motor Vehicle Theft,21283
+26,MI,Robbery,4014
+26,MI,Stolen Property Offenses,5137
+27,MN,Arson,724
+27,MN,Bribery,5
+27,MN,Burglary/ Breaking & Entering,14430
+27,MN,Counterfeiting/ Forgery,4017
+27,MN,Destruction/ Damage/ Vandalism ,35062
+27,MN,Embezzlement,197
+27,MN,Extortion/ Blackmail,205
+27,MN,Fraud Offenses,22930
+27,MN,Larceny/ Theft Offenses,88623
+27,MN,Motor Vehicle Theft,14562
+27,MN,Robbery,3996
+27,MN,Stolen Property Offenses,4665
+28,MS,Arson,185
+28,MS,Bribery,5
+28,MS,Burglary/ Breaking & Entering,6125
+28,MS,Counterfeiting/ Forgery,927
+28,MS,Destruction/ Damage/ Vandalism ,8779
+28,MS,Embezzlement,750
+28,MS,Extortion/ Blackmail,53
+28,MS,Fraud Offenses,4528
+28,MS,Larceny/ Theft Offenses,21874
+28,MS,Motor Vehicle Theft,3059
+28,MS,Robbery,465
+28,MS,Stolen Property Offenses,947
+29,MO,Arson,1106
+29,MO,Bribery,10
+29,MO,Burglary/ Breaking & Entering,17370
+29,MO,Counterfeiting/ Forgery,4166
+29,MO,Destruction/ Damage/ Vandalism ,40555
+29,MO,Embezzlement,545
+29,MO,Extortion/ Blackmail,116
+29,MO,Fraud Offenses,13960
+29,MO,Larceny/ Theft Offenses,97843
+29,MO,Motor Vehicle Theft,22462
+29,MO,Robbery,3596
+29,MO,Stolen Property Offenses,3334
+30,MT,Arson,205
+30,MT,Bribery,2
+30,MT,Burglary/ Breaking & Entering,2530
+30,MT,Counterfeiting/ Forgery,773
+30,MT,Destruction/ Damage/ Vandalism ,8147
+30,MT,Embezzlement,55
+30,MT,Extortion/ Blackmail,5
+30,MT,Fraud Offenses,2210
+30,MT,Larceny/ Theft Offenses,17442
+30,MT,Motor Vehicle Theft,2967
+30,MT,Robbery,289
+30,MT,Stolen Property Offenses,471
+31,NE,Arson,182
+31,NE,Bribery,6
+31,NE,Burglary/ Breaking & Entering,2342
+31,NE,Counterfeiting/ Forgery,977
+31,NE,Destruction/ Damage/ Vandalism ,9922
+31,NE,Embezzlement,135
+31,NE,Extortion/ Blackmail,130
+31,NE,Fraud Offenses,4784
+31,NE,Larceny/ Theft Offenses,15465
+31,NE,Motor Vehicle Theft,1750
+31,NE,Robbery,240
+31,NE,Stolen Property Offenses,351
+32,NV,Arson,407
+32,NV,Bribery,18
+32,NV,Burglary/ Breaking & Entering,12406
+32,NV,Counterfeiting/ Forgery,1585
+32,NV,Destruction/ Damage/ Vandalism ,21572
+32,NV,Embezzlement,1172
+32,NV,Extortion/ Blackmail,267
+32,NV,Fraud Offenses,13578
+32,NV,Larceny/ Theft Offenses,45412
+32,NV,Motor Vehicle Theft,13703
+32,NV,Robbery,2312
+32,NV,Stolen Property Offenses,2717
+33,NH,Arson,108
+33,NH,Bribery,3
+33,NH,Burglary/ Breaking & Entering,957
+33,NH,Counterfeiting/ Forgery,629
+33,NH,Destruction/ Damage/ Vandalism ,7353
+33,NH,Embezzlement,118
+33,NH,Extortion/ Blackmail,143
+33,NH,Fraud Offenses,5334
+33,NH,Larceny/ Theft Offenses,11534
+33,NH,Motor Vehicle Theft,892
+33,NH,Robbery,181
+33,NH,Stolen Property Offenses,671
+34,NJ,Arson,93
+34,NJ,Bribery,1
+34,NJ,Burglary/ Breaking & Entering,3114
+34,NJ,Counterfeiting/ Forgery,1245
+34,NJ,Destruction/ Damage/ Vandalism ,6052
+34,NJ,Embezzlement,125
+34,NJ,Extortion/ Blackmail,201
+34,NJ,Fraud Offenses,10330
+34,NJ,Larceny/ Theft Offenses,23380
+34,NJ,Motor Vehicle Theft,5079
+34,NJ,Robbery,1243
+34,NJ,Stolen Property Offenses,325
+35,NM,Arson,230
+35,NM,Bribery,38
+35,NM,Burglary/ Breaking & Entering,7249
+35,NM,Counterfeiting/ Forgery,593
+35,NM,Destruction/ Damage/ Vandalism ,15760
+35,NM,Embezzlement,411
+35,NM,Extortion/ Blackmail,91
+35,NM,Fraud Offenses,8583
+35,NM,Larceny/ Theft Offenses,25657
+35,NM,Motor Vehicle Theft,7316
+35,NM,Robbery,2029
+35,NM,Stolen Property Offenses,959
+36,NY,Arson,394
+36,NY,Bribery,5
+36,NY,Burglary/ Breaking & Entering,5305
+36,NY,Counterfeiting/ Forgery,998
+36,NY,Destruction/ Damage/ Vandalism ,22160
+36,NY,Embezzlement,25
+36,NY,Extortion/ Blackmail,155
+36,NY,Fraud Offenses,10025
+36,NY,Larceny/ Theft Offenses,39528
+36,NY,Motor Vehicle Theft,4082
+36,NY,Robbery,1520
+36,NY,Stolen Property Offenses,1087
+37,NC,Arson,1420
+37,NC,Bribery,11
+37,NC,Burglary/ Breaking & Entering,36508
+37,NC,Counterfeiting/ Forgery,4324
+37,NC,Destruction/ Damage/ Vandalism ,61076
+37,NC,Embezzlement,1913
+37,NC,Extortion/ Blackmail,816
+37,NC,Fraud Offenses,43312
+37,NC,Larceny/ Theft Offenses,158155
+37,NC,Motor Vehicle Theft,18779
+37,NC,Robbery,5840
+37,NC,Stolen Property Offenses,5592
+38,ND,Arson,105
+38,ND,Bribery,3
+38,ND,Burglary/ Breaking & Entering,2983
+38,ND,Counterfeiting/ Forgery,579
+38,ND,Destruction/ Damage/ Vandalism ,4843
+38,ND,Embezzlement,99
+38,ND,Extortion/ Blackmail,84
+38,ND,Fraud Offenses,3032
+38,ND,Larceny/ Theft Offenses,11598
+38,ND,Motor Vehicle Theft,2085
+38,ND,Robbery,191
+38,ND,Stolen Property Offenses,731
+39,OH,Arson,1012
+39,OH,Bribery,18
+39,OH,Burglary/ Breaking & Entering,27867
+39,OH,Counterfeiting/ Forgery,2604
+39,OH,Destruction/ Damage/ Vandalism ,60964
+39,OH,Embezzlement,138
+39,OH,Extortion/ Blackmail,500
+39,OH,Fraud Offenses,34274
+39,OH,Larceny/ Theft Offenses,131168
+39,OH,Motor Vehicle Theft,19393
+39,OH,Robbery,6613
+39,OH,Stolen Property Offenses,4041
+40,OK,Arson,834
+40,OK,Bribery,13
+40,OK,Burglary/ Breaking & Entering,20469
+40,OK,Counterfeiting/ Forgery,3102
+40,OK,Destruction/ Damage/ Vandalism ,22946
+40,OK,Embezzlement,1912
+40,OK,Extortion/ Blackmail,420
+40,OK,Fraud Offenses,15471
+40,OK,Larceny/ Theft Offenses,64803
+40,OK,Motor Vehicle Theft,15256
+40,OK,Robbery,1772
+40,OK,Stolen Property Offenses,3317
+41,OR,Arson,1402
+41,OR,Bribery,11
+41,OR,Burglary/ Breaking & Entering,13278
+41,OR,Counterfeiting/ Forgery,2642
+41,OR,Destruction/ Damage/ Vandalism ,36405
+41,OR,Embezzlement,238
+41,OR,Extortion/ Blackmail,226
+41,OR,Fraud Offenses,16021
+41,OR,Larceny/ Theft Offenses,79546
+41,OR,Motor Vehicle Theft,19241
+41,OR,Robbery,2498
+41,OR,Stolen Property Offenses,1378
+42,PA,Arson,544
+42,PA,Bribery,3
+42,PA,Burglary/ Breaking & Entering,4690
+42,PA,Counterfeiting/ Forgery,276
+42,PA,Destruction/ Damage/ Vandalism ,15707
+42,PA,Embezzlement,170
+42,PA,Extortion/ Blackmail,112
+42,PA,Fraud Offenses,10492
+42,PA,Larceny/ Theft Offenses,31604
+42,PA,Motor Vehicle Theft,7344
+42,PA,Robbery,3886
+42,PA,Stolen Property Offenses,321
+44,RI,Arson,95
+44,RI,Bribery,4
+44,RI,Burglary/ Breaking & Entering,1542
+44,RI,Counterfeiting/ Forgery,495
+44,RI,Destruction/ Damage/ Vandalism ,6065
+44,RI,Embezzlement,99
+44,RI,Extortion/ Blackmail,64
+44,RI,Fraud Offenses,3561
+44,RI,Larceny/ Theft Offenses,10398
+44,RI,Motor Vehicle Theft,1635
+44,RI,Robbery,278
+44,RI,Stolen Property Offenses,462
+45,SC,Arson,677
+45,SC,Bribery,11
+45,SC,Burglary/ Breaking & Entering,18353
+45,SC,Counterfeiting/ Forgery,3522
+45,SC,Destruction/ Damage/ Vandalism ,34272
+45,SC,Embezzlement,774
+45,SC,Extortion/ Blackmail,269
+45,SC,Fraud Offenses,20095
+45,SC,Larceny/ Theft Offenses,93193
+45,SC,Motor Vehicle Theft,13937
+45,SC,Robbery,2516
+45,SC,Stolen Property Offenses,4262
+46,SD,Arson,72
+46,SD,Bribery,5
+46,SD,Burglary/ Breaking & Entering,2024
+46,SD,Counterfeiting/ Forgery,580
+46,SD,Destruction/ Damage/ Vandalism ,4306
+46,SD,Embezzlement,183
+46,SD,Extortion/ Blackmail,23
+46,SD,Fraud Offenses,1732
+46,SD,Larceny/ Theft Offenses,10572
+46,SD,Motor Vehicle Theft,1959
+46,SD,Robbery,169
+46,SD,Stolen Property Offenses,307
+47,TN,Arson,936
+47,TN,Bribery,24
+47,TN,Burglary/ Breaking & Entering,22517
+47,TN,Counterfeiting/ Forgery,4597
+47,TN,Destruction/ Damage/ Vandalism ,45554
+47,TN,Embezzlement,1430
+47,TN,Extortion/ Blackmail,609
+47,TN,Fraud Offenses,25247
+47,TN,Larceny/ Theft Offenses,112912
+47,TN,Motor Vehicle Theft,20142
+47,TN,Robbery,4924
+47,TN,Stolen Property Offenses,2723
+48,TX,Arson,2921
+48,TX,Bribery,112
+48,TX,Burglary/ Breaking & Entering,91628
+48,TX,Counterfeiting/ Forgery,18646
+48,TX,Destruction/ Damage/ Vandalism ,165521
+48,TX,Embezzlement,2394
+48,TX,Extortion/ Blackmail,775
+48,TX,Fraud Offenses,98477
+48,TX,Larceny/ Theft Offenses,452357
+48,TX,Motor Vehicle Theft,87047
+48,TX,Robbery,22438
+48,TX,Stolen Property Offenses,4401
+49,UT,Arson,256
+49,UT,Bribery,7
+49,UT,Burglary/ Breaking & Entering,6968
+49,UT,Counterfeiting/ Forgery,1812
+49,UT,Destruction/ Damage/ Vandalism ,23747
+49,UT,Embezzlement,82
+49,UT,Extortion/ Blackmail,309
+49,UT,Fraud Offenses,12751
+49,UT,Larceny/ Theft Offenses,50959
+49,UT,Motor Vehicle Theft,7960
+49,UT,Robbery,1038
+49,UT,Stolen Property Offenses,1860
+50,VT,Arson,43
+50,VT,Bribery,0
+50,VT,Burglary/ Breaking & Entering,1129
+50,VT,Counterfeiting/ Forgery,179
+50,VT,Destruction/ Damage/ Vandalism ,3249
+50,VT,Embezzlement,59
+50,VT,Extortion/ Blackmail,17
+50,VT,Fraud Offenses,1455
+50,VT,Larceny/ Theft Offenses,7006
+50,VT,Motor Vehicle Theft,450
+50,VT,Robbery,65
+50,VT,Stolen Property Offenses,165
+51,VA,Arson,647
+51,VA,Bribery,30
+51,VA,Burglary/ Breaking & Entering,10464
+51,VA,Counterfeiting/ Forgery,3489
+51,VA,Destruction/ Damage/ Vandalism ,47560
+51,VA,Embezzlement,1569
+51,VA,Extortion/ Blackmail,814
+51,VA,Fraud Offenses,36400
+51,VA,Larceny/ Theft Offenses,104537
+51,VA,Motor Vehicle Theft,11248
+51,VA,Robbery,2929
+51,VA,Stolen Property Offenses,1326
+53,WA,Arson,1587
+53,WA,Bribery,11
+53,WA,Burglary/ Breaking & Entering,39475
+53,WA,Counterfeiting/ Forgery,3560
+53,WA,Destruction/ Damage/ Vandalism ,77062
+53,WA,Embezzlement,140
+53,WA,Extortion/ Blackmail,718
+53,WA,Fraud Offenses,24008
+53,WA,Larceny/ Theft Offenses,164309
+53,WA,Motor Vehicle Theft,35326
+53,WA,Robbery,5680
+53,WA,Stolen Property Offenses,5675
+54,WV,Arson,237
+54,WV,Bribery,4
+54,WV,Burglary/ Breaking & Entering,3344
+54,WV,Counterfeiting/ Forgery,663
+54,WV,Destruction/ Damage/ Vandalism ,5807
+54,WV,Embezzlement,101
+54,WV,Extortion/ Blackmail,13
+54,WV,Fraud Offenses,2615
+54,WV,Larceny/ Theft Offenses,15198
+54,WV,Motor Vehicle Theft,1797
+54,WV,Robbery,198
+54,WV,Stolen Property Offenses,728
+55,WI,Arson,474
+55,WI,Bribery,0
+55,WI,Burglary/ Breaking & Entering,9298
+55,WI,Counterfeiting/ Forgery,2005
+55,WI,Destruction/ Damage/ Vandalism ,25830
+55,WI,Embezzlement,540
+55,WI,Extortion/ Blackmail,275
+55,WI,Fraud Offenses,15565
+55,WI,Larceny/ Theft Offenses,57234
+55,WI,Motor Vehicle Theft,15950
+55,WI,Robbery,2648
+55,WI,Stolen Property Offenses,1571
+56,WY,Arson,52
+56,WY,Bribery,1
+56,WY,Burglary/ Breaking & Entering,1056
+56,WY,Counterfeiting/ Forgery,174
+56,WY,Destruction/ Damage/ Vandalism ,2577
+56,WY,Embezzlement,9
+56,WY,Extortion/ Blackmail,60
+56,WY,Fraud Offenses,896
+56,WY,Larceny/ Theft Offenses,5005
+56,WY,Motor Vehicle Theft,851
+56,WY,Robbery,47
+56,WY,Stolen Property Offenses,22

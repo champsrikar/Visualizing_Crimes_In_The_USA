@@ -1,0 +1,11 @@
+The following packages are required to run the project.
+
+pandas
+streamlit
+altair
+numpy
+vega_datasets
+plotly.express
+wordcloud
+
+You can install them using pip install package_name
